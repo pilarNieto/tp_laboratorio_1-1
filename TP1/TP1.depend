@@ -1,0 +1,70 @@
+# depslib dependency file v1.0
+1587146983 source:/home/rony/Documentos/D-Ubuntu/Clases/TP1/main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+	<stdio_ext.h>
+
+1586749184 /home/rony/Documentos/D-Ubuntu/Clases/TP1/utn_getNumero.h
+	<stdio.h>
+	<stdlib.h>
+
+1586748042 source:/home/rony/Documentos/D-Ubuntu/Clases/TP1/utn_getNumero.c
+	<stdio.h>
+	<stdlib.h>
+
+1586778965 /home/rony/Documentos/D-Ubuntu/Clases/TP1/sumar.h
+
+1586758964 source:/home/rony/Documentos/D-Ubuntu/Clases/TP1/sumar.c
+
+1586842733 source:/home/rony/Documentos/D-Ubuntu/Clases/TP1/dividir.c
+
+1586783793 /home/rony/Documentos/D-Ubuntu/Clases/TP1/dividir.h
+
+1586778965 /home/rony/Documentos/D-Ubuntu/Clases/TP1/resta.h
+
+1586778965 /home/rony/Documentos/D-Ubuntu/Clases/TP1/multiplicar.h
+
+1586769742 source:/home/rony/Documentos/D-Ubuntu/Clases/TP1/multiplicar.c
+
+1586769743 source:/home/rony/Documentos/D-Ubuntu/Clases/TP1/resta.c
+
+1586783338 source:/home/rony/Documentos/D-Ubuntu/Clases/TP1/factorial.c
+
+1586778965 /home/rony/Documentos/D-Ubuntu/Clases/TP1/factorial.h
+
+1586849010 source:/home/rony/Documentos/D-Ubuntu/Clases/TP1/menu.c
+	<stdio.h>
+	<stdlib.h>
+
+1586773479 /home/rony/Documentos/D-Ubuntu/Clases/TP1/menu
+
+1586846887 /home/rony/Documentos/D-Ubuntu/Clases/TP1/menuA.h
+	<stdio.h>
+	<stdlib.h>
+
+1586849051 source:/home/rony/Documentos/D-Ubuntu/Clases/TP1/menuA.c
+	<stdio.h>
+	<stdlib.h>
+
+1586846887 /home/rony/Documentos/D-Ubuntu/Clases/TP1/menuB.h
+	<stdio.h>
+	<stdlib.h>
+
+1586849051 source:/home/rony/Documentos/D-Ubuntu/Clases/TP1/menuB.c
+	<stdio.h>
+	<stdlib.h>
+
+1586846145 /home/rony/Documentos/D-Ubuntu/Clases/TP1/menu.h
+	<stdio.h>
+	<stdlib.h>
+
+1587148137 source:/home/rony/Documentos/D-Ubuntu/Clases/TP1/funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<stdio_ext.h>
+
+1586950097 /home/rony/Documentos/D-Ubuntu/Clases/TP1/funciones.h
+	<stdio.h>
+	<stdlib.h>
+
