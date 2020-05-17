@@ -7,7 +7,7 @@
 #include "utn.h"
 
 
-#define TAM 2000
+#define TAM 2000 //TRABAJO SOLO CON IDS QUE VAN DEL 1000 A 2000
 
 int main()
 {
